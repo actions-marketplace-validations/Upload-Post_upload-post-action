@@ -1,0 +1,1275 @@
+{
+  "_sdk_version": "2.14.1",
+  "video": {
+    "description": {
+      "option": "description",
+      "field": "description"
+    },
+    "max_posts_per_slot": {
+      "option": "maxPostsPerSlot",
+      "field": "max_posts_per_slot"
+    },
+    "instagram_first_comment": {
+      "option": "instagramFirstComment",
+      "field": "instagram_first_comment"
+    },
+    "facebook_first_comment": {
+      "option": "facebookFirstComment",
+      "field": "facebook_first_comment"
+    },
+    "x_first_comment": {
+      "option": "xFirstComment",
+      "field": "x_first_comment"
+    },
+    "threads_first_comment": {
+      "option": "threadsFirstComment",
+      "field": "threads_first_comment"
+    },
+    "youtube_first_comment": {
+      "option": "youtubeFirstComment",
+      "field": "youtube_first_comment"
+    },
+    "bluesky_first_comment": {
+      "option": "blueskyFirstComment",
+      "field": "bluesky_first_comment"
+    },
+    "linkedin_first_comment": {
+      "option": "linkedinFirstComment",
+      "field": "linkedin_first_comment"
+    },
+    "tiktok_first_comment": {
+      "option": "tiktokFirstComment",
+      "field": "tiktok_first_comment"
+    },
+    "instagram_title": {
+      "option": "instagramTitle",
+      "field": "instagram_title"
+    },
+    "facebook_title": {
+      "option": "facebookTitle",
+      "field": "facebook_title"
+    },
+    "tiktok_title": {
+      "option": "tiktokTitle",
+      "field": "tiktok_title"
+    },
+    "linkedin_title": {
+      "option": "linkedinTitle",
+      "field": "linkedin_title"
+    },
+    "x_title": {
+      "option": "xTitle",
+      "field": "x_title"
+    },
+    "youtube_title": {
+      "option": "youtubeTitle",
+      "field": "youtube_title"
+    },
+    "pinterest_title": {
+      "option": "pinterestTitle",
+      "field": "pinterest_title"
+    },
+    "privacy_level": {
+      "option": "tiktokPrivacyLevel",
+      "field": "privacy_level"
+    },
+    "disable_duet": {
+      "option": "tiktokDisableDuet",
+      "field": "disable_duet"
+    },
+    "disable_comment": {
+      "option": "tiktokDisableComment",
+      "field": "disable_comment"
+    },
+    "disable_stitch": {
+      "option": "tiktokDisableStitch",
+      "field": "disable_stitch"
+    },
+    "post_mode": {
+      "option": "post_mode",
+      "field": "post_mode"
+    },
+    "cover_timestamp": {
+      "option": "tiktokCoverTimestamp",
+      "field": "cover_timestamp"
+    },
+    "tiktok_cover_image_url": {
+      "option": "tiktokCoverImageUrl",
+      "field": "tiktok_cover_image_url"
+    },
+    "tiktok_music_id": {
+      "option": "tiktokMusicId",
+      "field": "tiktok_music_id"
+    },
+    "tiktok_music_volume": {
+      "option": "tiktokMusicVolume",
+      "field": "tiktok_music_volume"
+    },
+    "tiktok_music_start": {
+      "option": "tiktokMusicStart",
+      "field": "tiktok_music_start"
+    },
+    "tiktok_music_end": {
+      "option": "tiktokMusicEnd",
+      "field": "tiktok_music_end"
+    },
+    "tiktok_original_sound_volume": {
+      "option": "tiktokOriginalSoundVolume",
+      "field": "tiktok_original_sound_volume"
+    },
+    "tiktok_location_id": {
+      "option": "tiktokLocationId",
+      "field": "tiktok_location_id"
+    },
+    "tiktok_location_name": {
+      "option": "tiktokLocationName",
+      "field": "tiktok_location_name"
+    },
+    "tiktok_upload_to_draft": {
+      "option": "tiktok_upload_to_draft",
+      "field": "tiktok_upload_to_draft"
+    },
+    "brand_content_toggle": {
+      "option": "brandContentToggle",
+      "field": "brand_content_toggle"
+    },
+    "brand_organic_toggle": {
+      "option": "brandOrganicToggle",
+      "field": "brand_organic_toggle"
+    },
+    "is_aigc": {
+      "option": "tiktokIsAigc",
+      "field": "is_aigc"
+    },
+    "tiktok_is_ai_generated": {
+      "option": "tiktokIsAiGenerated",
+      "field": "tiktok_is_ai_generated"
+    },
+    "tiktok_is_ads_only": {
+      "option": "tiktok_is_ads_only",
+      "field": "tiktok_is_ads_only"
+    },
+    "tiktok_tto_invite_link": {
+      "option": "tiktok_tto_invite_link",
+      "field": "tiktok_tto_invite_link"
+    },
+    "media_type": {
+      "option": "instagramMediaType",
+      "field": "media_type"
+    },
+    "share_to_feed": {
+      "option": "instagramShareToFeed",
+      "field": "share_to_feed"
+    },
+    "collaborators": {
+      "option": "instagramCollaborators",
+      "field": "collaborators"
+    },
+    "cover_image": {
+      "option": "instagramCoverUrl",
+      "field": "cover_image"
+    },
+    "audio_name": {
+      "option": "instagramAudioName",
+      "field": "audio_name"
+    },
+    "user_tags": {
+      "option": "instagramUserTags",
+      "field": "user_tags"
+    },
+    "location_id": {
+      "option": "instagramLocationId",
+      "field": "location_id"
+    },
+    "thumb_offset": {
+      "option": "instagramThumbOffset",
+      "field": "thumb_offset"
+    },
+    "linkedin_description": {
+      "option": "linkedinDescription",
+      "field": "linkedin_description"
+    },
+    "visibility": {
+      "option": "linkedinVisibility",
+      "field": "visibility"
+    },
+    "target_linkedin_page_id": {
+      "option": "targetLinkedinPageId",
+      "field": "target_linkedin_page_id"
+    },
+    "thumbnail_url": {
+      "option": "thumbnailUrl",
+      "field": "thumbnail_url"
+    },
+    "linkedin_disable_reshare": {
+      "option": "linkedin_disable_reshare",
+      "field": "linkedin_disable_reshare"
+    },
+    "linkedin_subtitles": {
+      "option": "linkedin_subtitles",
+      "field": "linkedin_subtitles"
+    },
+    "youtube_description": {
+      "option": "youtubeDescription",
+      "field": "youtube_description"
+    },
+    "tags": {
+      "option": "youtubeTags",
+      "field": "tags[]"
+    },
+    "categoryId": {
+      "option": "youtubeCategoryId",
+      "field": "categoryId"
+    },
+    "privacyStatus": {
+      "option": "youtubePrivacyStatus",
+      "field": "privacyStatus"
+    },
+    "embeddable": {
+      "option": "youtubeEmbeddable",
+      "field": "embeddable"
+    },
+    "license": {
+      "option": "youtubeLicense",
+      "field": "license"
+    },
+    "publicStatsViewable": {
+      "option": "youtubePublicStatsViewable",
+      "field": "publicStatsViewable"
+    },
+    "selfDeclaredMadeForKids": {
+      "option": "youtubeSelfDeclaredMadeForKids",
+      "field": "selfDeclaredMadeForKids"
+    },
+    "containsSyntheticMedia": {
+      "option": "youtubeContainsSyntheticMedia",
+      "field": "containsSyntheticMedia"
+    },
+    "defaultLanguage": {
+      "option": "youtubeDefaultLanguage",
+      "field": "defaultLanguage"
+    },
+    "defaultAudioLanguage": {
+      "option": "youtubeDefaultAudioLanguage",
+      "field": "defaultAudioLanguage"
+    },
+    "allowedCountries": {
+      "option": "youtubeAllowedCountries",
+      "field": "allowedCountries"
+    },
+    "blockedCountries": {
+      "option": "youtubeBlockedCountries",
+      "field": "blockedCountries"
+    },
+    "hasPaidProductPlacement": {
+      "option": "youtubeHasPaidProductPlacement",
+      "field": "hasPaidProductPlacement"
+    },
+    "recordingDate": {
+      "option": "youtubeRecordingDate",
+      "field": "recordingDate"
+    },
+    "youtube_playlist_id": {
+      "option": "youtubePlaylistId",
+      "field": "youtube_playlist_id"
+    },
+    "youtube_notify_subscribers": {
+      "option": "youtubeNotifySubscribers",
+      "field": "youtube_notify_subscribers"
+    },
+    "youtube_publish_at": {
+      "option": "youtubePublishAt",
+      "field": "youtube_publish_at"
+    },
+    "facebook_description": {
+      "option": "facebookDescription",
+      "field": "facebook_description"
+    },
+    "facebook_page_id": {
+      "option": "facebookPageId",
+      "field": "facebook_page_id"
+    },
+    "facebook_media_type": {
+      "option": "facebookMediaType",
+      "field": "facebook_media_type"
+    },
+    "video_state": {
+      "option": "facebookVideoState",
+      "field": "video_state"
+    },
+    "facebook_is_ai_generated": {
+      "option": "facebook_is_ai_generated",
+      "field": "facebook_is_ai_generated"
+    },
+    "facebook_unpublished_content_type": {
+      "option": "facebook_unpublished_content_type",
+      "field": "facebook_unpublished_content_type"
+    },
+    "facebook_no_story": {
+      "option": "facebook_no_story",
+      "field": "facebook_no_story"
+    },
+    "facebook_secret": {
+      "option": "facebook_secret",
+      "field": "facebook_secret"
+    },
+    "facebook_collaborators": {
+      "option": "facebook_collaborators",
+      "field": "facebook_collaborators"
+    },
+    "threads_title": {
+      "option": "threadsTitle",
+      "field": "threads_title"
+    },
+    "threads_topic_tag": {
+      "option": "threadsTopicTag",
+      "field": "threads_topic_tag"
+    },
+    "threads_alt_text": {
+      "option": "threads_alt_text",
+      "field": "threads_alt_text"
+    },
+    "threads_reply_control": {
+      "option": "threads_reply_control",
+      "field": "threads_reply_control"
+    },
+    "threads_reply_to_id": {
+      "option": "threads_reply_to_id",
+      "field": "threads_reply_to_id"
+    },
+    "threads_quote_post_id": {
+      "option": "threads_quote_post_id",
+      "field": "threads_quote_post_id"
+    },
+    "x_long_text_as_post": {
+      "option": "xLongTextAsPost",
+      "field": "x_long_text_as_post"
+    },
+    "reply_settings": {
+      "option": "xReplySettings",
+      "field": "reply_settings"
+    },
+    "geo_place_id": {
+      "option": "xGeoPlaceId",
+      "field": "geo_place_id"
+    },
+    "nullcast": {
+      "option": "xNullcast",
+      "field": "nullcast"
+    },
+    "for_super_followers_only": {
+      "option": "xForSuperFollowersOnly",
+      "field": "for_super_followers_only"
+    },
+    "community_id": {
+      "option": "xCommunityId",
+      "field": "community_id"
+    },
+    "share_with_followers": {
+      "option": "xShareWithFollowers",
+      "field": "share_with_followers"
+    },
+    "direct_message_deep_link": {
+      "option": "xDirectMessageDeepLink",
+      "field": "direct_message_deep_link"
+    },
+    "tagged_user_ids": {
+      "option": "xTaggedUserIds",
+      "field": "tagged_user_ids[]"
+    },
+    "reply_to_id": {
+      "option": "blueskyReplyToId",
+      "field": "reply_to_id"
+    },
+    "x_alt_text": {
+      "option": "x_alt_text",
+      "field": "x_alt_text"
+    },
+    "x_subtitles_url": {
+      "option": "x_subtitles_url",
+      "field": "x_subtitles_url"
+    },
+    "x_subtitles_language": {
+      "option": "x_subtitles_language",
+      "field": "x_subtitles_language"
+    },
+    "x_subtitles_name": {
+      "option": "x_subtitles_name",
+      "field": "x_subtitles_name"
+    },
+    "x_paid_partnership": {
+      "option": "x_paid_partnership",
+      "field": "x_paid_partnership"
+    },
+    "pinterest_description": {
+      "option": "pinterestDescription",
+      "field": "pinterest_description"
+    },
+    "pinterest_board_id": {
+      "option": "pinterestBoardId",
+      "field": "pinterest_board_id"
+    },
+    "pinterest_alt_text": {
+      "option": "pinterestAltText",
+      "field": "pinterest_alt_text"
+    },
+    "pinterest_link": {
+      "option": "pinterestLink",
+      "field": "pinterest_link"
+    },
+    "pinterest_cover_image_url": {
+      "option": "pinterestCoverImageUrl",
+      "field": "pinterest_cover_image_url"
+    },
+    "pinterest_cover_image_content_type": {
+      "option": "pinterestCoverImageContentType",
+      "field": "pinterest_cover_image_content_type"
+    },
+    "pinterest_cover_image_data": {
+      "option": "pinterestCoverImageData",
+      "field": "pinterest_cover_image_data"
+    },
+    "pinterest_cover_image_key_frame_time": {
+      "option": "pinterestCoverImageKeyFrameTime",
+      "field": "pinterest_cover_image_key_frame_time"
+    },
+    "pinterest_board_section_id": {
+      "option": "pinterest_board_section_id",
+      "field": "pinterest_board_section_id"
+    },
+    "pinterest_ai_disclosures": {
+      "option": "pinterest_ai_disclosures",
+      "field": "pinterest_ai_disclosures"
+    },
+    "bluesky_title": {
+      "option": "blueskyTitle",
+      "field": "bluesky_title"
+    },
+    "bluesky_alt_text": {
+      "option": "bluesky_alt_text",
+      "field": "bluesky_alt_text"
+    },
+    "bluesky_langs": {
+      "option": "bluesky_langs",
+      "field": "bluesky_langs"
+    },
+    "bluesky_labels": {
+      "option": "bluesky_labels",
+      "field": "bluesky_labels"
+    },
+    "bluesky_threadgate": {
+      "option": "bluesky_threadgate",
+      "field": "bluesky_threadgate"
+    },
+    "bluesky_postgate": {
+      "option": "bluesky_postgate",
+      "field": "bluesky_postgate"
+    },
+    "bluesky_quote_uri": {
+      "option": "bluesky_quote_uri",
+      "field": "bluesky_quote_uri"
+    },
+    "discord_alt_text": {
+      "option": "discord_alt_text",
+      "field": "discord_alt_text"
+    },
+    "discord_thread_id": {
+      "option": "discord_thread_id",
+      "field": "discord_thread_id"
+    },
+    "discord_max_file_mb": {
+      "option": "discord_max_file_mb",
+      "field": "discord_max_file_mb"
+    },
+    "telegram_parse_mode": {
+      "option": "telegram_parse_mode",
+      "field": "telegram_parse_mode"
+    },
+    "telegram_has_spoiler": {
+      "option": "telegram_has_spoiler",
+      "field": "telegram_has_spoiler"
+    },
+    "telegram_as_document": {
+      "option": "telegram_as_document",
+      "field": "telegram_as_document"
+    },
+    "gbp_location_id": {
+      "option": "gbpLocationId",
+      "field": "gbp_location_id"
+    },
+    "gbp_topic_type": {
+      "option": "gbpTopicType",
+      "field": "gbp_topic_type"
+    },
+    "gbp_cta_type": {
+      "option": "gbpCtaType",
+      "field": "gbp_cta_type"
+    },
+    "gbp_cta_url": {
+      "option": "gbpCtaUrl",
+      "field": "gbp_cta_url"
+    },
+    "gbp_post_type": {
+      "option": "gbpPostType",
+      "field": "gbp_post_type"
+    },
+    "gbp_media_category": {
+      "option": "gbpMediaCategory",
+      "field": "gbp_media_category"
+    },
+    "gbp_event_title": {
+      "option": "gbpEventTitle",
+      "field": "gbp_event_title"
+    },
+    "gbp_event_start_date": {
+      "option": "gbpEventStartDate",
+      "field": "gbp_event_start_date"
+    },
+    "gbp_event_start_time": {
+      "option": "gbpEventStartTime",
+      "field": "gbp_event_start_time"
+    },
+    "gbp_event_end_date": {
+      "option": "gbpEventEndDate",
+      "field": "gbp_event_end_date"
+    },
+    "gbp_event_end_time": {
+      "option": "gbpEventEndTime",
+      "field": "gbp_event_end_time"
+    },
+    "gbp_coupon_code": {
+      "option": "gbp_coupon_code",
+      "field": "gbp_coupon_code"
+    },
+    "gbp_redeem_url": {
+      "option": "gbp_redeem_url",
+      "field": "gbp_redeem_url"
+    },
+    "gbp_terms": {
+      "option": "gbp_terms",
+      "field": "gbp_terms"
+    },
+    "gbp_language_code": {
+      "option": "gbp_language_code",
+      "field": "gbp_language_code"
+    }
+  },
+  "photos": {
+    "description": {
+      "option": "description",
+      "field": "description"
+    },
+    "max_posts_per_slot": {
+      "option": "maxPostsPerSlot",
+      "field": "max_posts_per_slot"
+    },
+    "instagram_first_comment": {
+      "option": "instagramFirstComment",
+      "field": "instagram_first_comment"
+    },
+    "facebook_first_comment": {
+      "option": "facebookFirstComment",
+      "field": "facebook_first_comment"
+    },
+    "x_first_comment": {
+      "option": "xFirstComment",
+      "field": "x_first_comment"
+    },
+    "threads_first_comment": {
+      "option": "threadsFirstComment",
+      "field": "threads_first_comment"
+    },
+    "bluesky_first_comment": {
+      "option": "blueskyFirstComment",
+      "field": "bluesky_first_comment"
+    },
+    "linkedin_first_comment": {
+      "option": "linkedinFirstComment",
+      "field": "linkedin_first_comment"
+    },
+    "tiktok_first_comment": {
+      "option": "tiktokFirstComment",
+      "field": "tiktok_first_comment"
+    },
+    "instagram_title": {
+      "option": "instagramTitle",
+      "field": "instagram_title"
+    },
+    "facebook_title": {
+      "option": "facebookTitle",
+      "field": "facebook_title"
+    },
+    "tiktok_title": {
+      "option": "tiktokTitle",
+      "field": "tiktok_title"
+    },
+    "linkedin_title": {
+      "option": "linkedinTitle",
+      "field": "linkedin_title"
+    },
+    "x_title": {
+      "option": "xTitle",
+      "field": "x_title"
+    },
+    "linkedin_description": {
+      "option": "linkedinDescription",
+      "field": "linkedin_description"
+    },
+    "visibility": {
+      "option": "linkedinVisibility",
+      "field": "visibility"
+    },
+    "target_linkedin_page_id": {
+      "option": "targetLinkedinPageId",
+      "field": "target_linkedin_page_id"
+    },
+    "linkedin_alt_text": {
+      "option": "linkedin_alt_text",
+      "field": "linkedin_alt_text"
+    },
+    "linkedin_disable_reshare": {
+      "option": "linkedin_disable_reshare",
+      "field": "linkedin_disable_reshare"
+    },
+    "facebook_page_id": {
+      "option": "facebookPageId",
+      "field": "facebook_page_id"
+    },
+    "facebook_alt_text": {
+      "option": "facebook_alt_text",
+      "field": "facebook_alt_text"
+    },
+    "facebook_place_id": {
+      "option": "facebook_place_id",
+      "field": "facebook_place_id"
+    },
+    "facebook_targeting": {
+      "option": "facebook_targeting",
+      "field": "facebook_targeting"
+    },
+    "facebook_feed_targeting": {
+      "option": "facebook_feed_targeting",
+      "field": "facebook_feed_targeting"
+    },
+    "x_long_text_as_post": {
+      "option": "xLongTextAsPost",
+      "field": "x_long_text_as_post"
+    },
+    "x_thread_image_layout": {
+      "option": "xThreadImageLayout",
+      "field": "x_thread_image_layout"
+    },
+    "reply_settings": {
+      "option": "xReplySettings",
+      "field": "reply_settings"
+    },
+    "geo_place_id": {
+      "option": "xGeoPlaceId",
+      "field": "geo_place_id"
+    },
+    "nullcast": {
+      "option": "xNullcast",
+      "field": "nullcast"
+    },
+    "for_super_followers_only": {
+      "option": "xForSuperFollowersOnly",
+      "field": "for_super_followers_only"
+    },
+    "community_id": {
+      "option": "xCommunityId",
+      "field": "community_id"
+    },
+    "share_with_followers": {
+      "option": "xShareWithFollowers",
+      "field": "share_with_followers"
+    },
+    "direct_message_deep_link": {
+      "option": "xDirectMessageDeepLink",
+      "field": "direct_message_deep_link"
+    },
+    "tagged_user_ids": {
+      "option": "xTaggedUserIds",
+      "field": "tagged_user_ids[]"
+    },
+    "reply_to_id": {
+      "option": "blueskyReplyToId",
+      "field": "reply_to_id"
+    },
+    "x_alt_text": {
+      "option": "x_alt_text",
+      "field": "x_alt_text"
+    },
+    "x_paid_partnership": {
+      "option": "x_paid_partnership",
+      "field": "x_paid_partnership"
+    },
+    "post_mode": {
+      "option": "post_mode",
+      "field": "post_mode"
+    },
+    "privacy_level": {
+      "option": "tiktokPrivacyLevel",
+      "field": "privacy_level"
+    },
+    "auto_add_music": {
+      "option": "tiktokAutoAddMusic",
+      "field": "auto_add_music"
+    },
+    "disable_comment": {
+      "option": "tiktokDisableComment",
+      "field": "disable_comment"
+    },
+    "brand_content_toggle": {
+      "option": "brandContentToggle",
+      "field": "brand_content_toggle"
+    },
+    "brand_organic_toggle": {
+      "option": "brandOrganicToggle",
+      "field": "brand_organic_toggle"
+    },
+    "photo_cover_index": {
+      "option": "tiktokPhotoCoverIndex",
+      "field": "photo_cover_index"
+    },
+    "tiktok_music_id": {
+      "option": "tiktokMusicId",
+      "field": "tiktok_music_id"
+    },
+    "tiktok_location_id": {
+      "option": "tiktokLocationId",
+      "field": "tiktok_location_id"
+    },
+    "tiktok_location_name": {
+      "option": "tiktokLocationName",
+      "field": "tiktok_location_name"
+    },
+    "tiktok_is_ai_generated": {
+      "option": "tiktokIsAiGenerated",
+      "field": "tiktok_is_ai_generated"
+    },
+    "tiktok_upload_to_draft": {
+      "option": "tiktok_upload_to_draft",
+      "field": "tiktok_upload_to_draft"
+    },
+    "tiktok_description": {
+      "option": "tiktokDescription",
+      "field": "tiktok_description"
+    },
+    "media_type": {
+      "option": "instagramMediaType",
+      "field": "media_type"
+    },
+    "collaborators": {
+      "option": "instagramCollaborators",
+      "field": "collaborators"
+    },
+    "user_tags": {
+      "option": "instagramUserTags",
+      "field": "user_tags"
+    },
+    "location_id": {
+      "option": "instagramLocationId",
+      "field": "location_id"
+    },
+    "instagram_alt_text": {
+      "option": "instagram_alt_text",
+      "field": "instagram_alt_text"
+    },
+    "threads_title": {
+      "option": "threadsTitle",
+      "field": "threads_title"
+    },
+    "threads_thread_media_layout": {
+      "option": "threadsThreadMediaLayout",
+      "field": "threads_thread_media_layout"
+    },
+    "threads_topic_tag": {
+      "option": "threadsTopicTag",
+      "field": "threads_topic_tag"
+    },
+    "threads_alt_text": {
+      "option": "threads_alt_text",
+      "field": "threads_alt_text"
+    },
+    "threads_reply_control": {
+      "option": "threads_reply_control",
+      "field": "threads_reply_control"
+    },
+    "threads_reply_to_id": {
+      "option": "threads_reply_to_id",
+      "field": "threads_reply_to_id"
+    },
+    "threads_quote_post_id": {
+      "option": "threads_quote_post_id",
+      "field": "threads_quote_post_id"
+    },
+    "pinterest_title": {
+      "option": "pinterestTitle",
+      "field": "pinterest_title"
+    },
+    "pinterest_description": {
+      "option": "pinterestDescription",
+      "field": "pinterest_description"
+    },
+    "pinterest_board_id": {
+      "option": "pinterestBoardId",
+      "field": "pinterest_board_id"
+    },
+    "pinterest_alt_text": {
+      "option": "pinterestAltText",
+      "field": "pinterest_alt_text"
+    },
+    "pinterest_link": {
+      "option": "pinterestLink",
+      "field": "pinterest_link"
+    },
+    "pinterest_board_section_id": {
+      "option": "pinterest_board_section_id",
+      "field": "pinterest_board_section_id"
+    },
+    "pinterest_ai_disclosures": {
+      "option": "pinterest_ai_disclosures",
+      "field": "pinterest_ai_disclosures"
+    },
+    "pinterest_carousel_titles[]": {
+      "option": "pinterest_carousel_titles",
+      "field": "pinterest_carousel_titles[]"
+    },
+    "pinterest_carousel_descriptions[]": {
+      "option": "pinterest_carousel_descriptions",
+      "field": "pinterest_carousel_descriptions[]"
+    },
+    "pinterest_carousel_links[]": {
+      "option": "pinterest_carousel_links",
+      "field": "pinterest_carousel_links[]"
+    },
+    "pinterest_carousel_index": {
+      "option": "pinterest_carousel_index",
+      "field": "pinterest_carousel_index"
+    },
+    "bluesky_title": {
+      "option": "blueskyTitle",
+      "field": "bluesky_title"
+    },
+    "bluesky_alt_text": {
+      "option": "bluesky_alt_text",
+      "field": "bluesky_alt_text"
+    },
+    "bluesky_langs": {
+      "option": "bluesky_langs",
+      "field": "bluesky_langs"
+    },
+    "bluesky_labels": {
+      "option": "bluesky_labels",
+      "field": "bluesky_labels"
+    },
+    "bluesky_gallery": {
+      "option": "bluesky_gallery",
+      "field": "bluesky_gallery"
+    },
+    "bluesky_threadgate": {
+      "option": "bluesky_threadgate",
+      "field": "bluesky_threadgate"
+    },
+    "bluesky_postgate": {
+      "option": "bluesky_postgate",
+      "field": "bluesky_postgate"
+    },
+    "bluesky_quote_uri": {
+      "option": "bluesky_quote_uri",
+      "field": "bluesky_quote_uri"
+    },
+    "discord_alt_text": {
+      "option": "discord_alt_text",
+      "field": "discord_alt_text"
+    },
+    "discord_thread_id": {
+      "option": "discord_thread_id",
+      "field": "discord_thread_id"
+    },
+    "discord_thread_name": {
+      "option": "discord_thread_name",
+      "field": "discord_thread_name"
+    },
+    "discord_flags": {
+      "option": "discord_flags",
+      "field": "discord_flags"
+    },
+    "telegram_parse_mode": {
+      "option": "telegram_parse_mode",
+      "field": "telegram_parse_mode"
+    },
+    "telegram_has_spoiler": {
+      "option": "telegram_has_spoiler",
+      "field": "telegram_has_spoiler"
+    },
+    "telegram_disable_notification": {
+      "option": "telegram_disable_notification",
+      "field": "telegram_disable_notification"
+    },
+    "telegram_protect_content": {
+      "option": "telegram_protect_content",
+      "field": "telegram_protect_content"
+    },
+    "gbp_location_id": {
+      "option": "gbpLocationId",
+      "field": "gbp_location_id"
+    },
+    "gbp_topic_type": {
+      "option": "gbpTopicType",
+      "field": "gbp_topic_type"
+    },
+    "gbp_cta_type": {
+      "option": "gbpCtaType",
+      "field": "gbp_cta_type"
+    },
+    "gbp_cta_url": {
+      "option": "gbpCtaUrl",
+      "field": "gbp_cta_url"
+    },
+    "gbp_post_type": {
+      "option": "gbpPostType",
+      "field": "gbp_post_type"
+    },
+    "gbp_media_category": {
+      "option": "gbpMediaCategory",
+      "field": "gbp_media_category"
+    },
+    "gbp_event_title": {
+      "option": "gbpEventTitle",
+      "field": "gbp_event_title"
+    },
+    "gbp_event_start_date": {
+      "option": "gbpEventStartDate",
+      "field": "gbp_event_start_date"
+    },
+    "gbp_event_start_time": {
+      "option": "gbpEventStartTime",
+      "field": "gbp_event_start_time"
+    },
+    "gbp_event_end_date": {
+      "option": "gbpEventEndDate",
+      "field": "gbp_event_end_date"
+    },
+    "gbp_event_end_time": {
+      "option": "gbpEventEndTime",
+      "field": "gbp_event_end_time"
+    },
+    "gbp_coupon_code": {
+      "option": "gbp_coupon_code",
+      "field": "gbp_coupon_code"
+    },
+    "gbp_redeem_url": {
+      "option": "gbp_redeem_url",
+      "field": "gbp_redeem_url"
+    },
+    "gbp_terms": {
+      "option": "gbp_terms",
+      "field": "gbp_terms"
+    },
+    "gbp_language_code": {
+      "option": "gbp_language_code",
+      "field": "gbp_language_code"
+    }
+  },
+  "text": {
+    "description": {
+      "option": "description",
+      "field": "description"
+    },
+    "max_posts_per_slot": {
+      "option": "maxPostsPerSlot",
+      "field": "max_posts_per_slot"
+    },
+    "facebook_first_comment": {
+      "option": "facebookFirstComment",
+      "field": "facebook_first_comment"
+    },
+    "x_first_comment": {
+      "option": "xFirstComment",
+      "field": "x_first_comment"
+    },
+    "threads_first_comment": {
+      "option": "threadsFirstComment",
+      "field": "threads_first_comment"
+    },
+    "bluesky_first_comment": {
+      "option": "blueskyFirstComment",
+      "field": "bluesky_first_comment"
+    },
+    "linkedin_first_comment": {
+      "option": "linkedinFirstComment",
+      "field": "linkedin_first_comment"
+    },
+    "linkedin_title": {
+      "option": "linkedinTitle",
+      "field": "linkedin_title"
+    },
+    "x_title": {
+      "option": "xTitle",
+      "field": "x_title"
+    },
+    "facebook_title": {
+      "option": "facebookTitle",
+      "field": "facebook_title"
+    },
+    "threads_title": {
+      "option": "threadsTitle",
+      "field": "threads_title"
+    },
+    "target_linkedin_page_id": {
+      "option": "targetLinkedinPageId",
+      "field": "target_linkedin_page_id"
+    },
+    "linkedin_link_url": {
+      "option": "linkedinLinkUrl",
+      "field": "linkedin_link_url"
+    },
+    "linkedin_disable_reshare": {
+      "option": "linkedin_disable_reshare",
+      "field": "linkedin_disable_reshare"
+    },
+    "linkedin_link_title": {
+      "option": "linkedin_link_title",
+      "field": "linkedin_link_title"
+    },
+    "linkedin_link_description": {
+      "option": "linkedin_link_description",
+      "field": "linkedin_link_description"
+    },
+    "linkedin_thumbnail_alt_text": {
+      "option": "linkedin_thumbnail_alt_text",
+      "field": "linkedin_thumbnail_alt_text"
+    },
+    "x_long_text_as_post": {
+      "option": "xLongTextAsPost",
+      "field": "x_long_text_as_post"
+    },
+    "reply_settings": {
+      "option": "xReplySettings",
+      "field": "reply_settings"
+    },
+    "quote_tweet_id": {
+      "option": "xQuoteTweetId",
+      "field": "quote_tweet_id"
+    },
+    "geo_place_id": {
+      "option": "xGeoPlaceId",
+      "field": "geo_place_id"
+    },
+    "nullcast": {
+      "option": "xNullcast",
+      "field": "nullcast"
+    },
+    "for_super_followers_only": {
+      "option": "xForSuperFollowersOnly",
+      "field": "for_super_followers_only"
+    },
+    "community_id": {
+      "option": "xCommunityId",
+      "field": "community_id"
+    },
+    "share_with_followers": {
+      "option": "xShareWithFollowers",
+      "field": "share_with_followers"
+    },
+    "direct_message_deep_link": {
+      "option": "xDirectMessageDeepLink",
+      "field": "direct_message_deep_link"
+    },
+    "card_uri": {
+      "option": "xCardUri",
+      "field": "card_uri"
+    },
+    "poll_options": {
+      "option": "xPollOptions",
+      "field": "poll_options[]"
+    },
+    "reply_to_id": {
+      "option": "blueskyReplyToId",
+      "field": "reply_to_id"
+    },
+    "x_paid_partnership": {
+      "option": "x_paid_partnership",
+      "field": "x_paid_partnership"
+    },
+    "x_article_title": {
+      "option": "x_article_title",
+      "field": "x_article_title"
+    },
+    "x_article_body": {
+      "option": "x_article_body",
+      "field": "x_article_body"
+    },
+    "x_article_content_state": {
+      "option": "x_article_content_state",
+      "field": "x_article_content_state"
+    },
+    "x_article_draft": {
+      "option": "x_article_draft",
+      "field": "x_article_draft"
+    },
+    "x_article_cover_media": {
+      "option": "x_article_cover_media",
+      "field": "x_article_cover_media"
+    },
+    "facebook_page_id": {
+      "option": "facebookPageId",
+      "field": "facebook_page_id"
+    },
+    "facebook_link_url": {
+      "option": "facebookLinkUrl",
+      "field": "facebook_link_url"
+    },
+    "facebook_call_to_action": {
+      "option": "facebook_call_to_action",
+      "field": "facebook_call_to_action"
+    },
+    "facebook_child_attachments": {
+      "option": "facebook_child_attachments",
+      "field": "facebook_child_attachments"
+    },
+    "facebook_multi_share_end_card": {
+      "option": "facebook_multi_share_end_card",
+      "field": "facebook_multi_share_end_card"
+    },
+    "facebook_place_id": {
+      "option": "facebook_place_id",
+      "field": "facebook_place_id"
+    },
+    "threads_long_text_as_post": {
+      "option": "threadsLongTextAsPost",
+      "field": "threads_long_text_as_post"
+    },
+    "threads_topic_tag": {
+      "option": "threadsTopicTag",
+      "field": "threads_topic_tag"
+    },
+    "threads_reply_control": {
+      "option": "threads_reply_control",
+      "field": "threads_reply_control"
+    },
+    "threads_reply_to_id": {
+      "option": "threads_reply_to_id",
+      "field": "threads_reply_to_id"
+    },
+    "threads_quote_post_id": {
+      "option": "threads_quote_post_id",
+      "field": "threads_quote_post_id"
+    },
+    "threads_link_attachment": {
+      "option": "threads_link_attachment",
+      "field": "threads_link_attachment"
+    },
+    "threads_poll_options": {
+      "option": "threads_poll_options",
+      "field": "threads_poll_options"
+    },
+    "threads_auto_publish_text": {
+      "option": "threads_auto_publish_text",
+      "field": "threads_auto_publish_text"
+    },
+    "bluesky_title": {
+      "option": "blueskyTitle",
+      "field": "bluesky_title"
+    },
+    "bluesky_link_url": {
+      "option": "blueskyLinkUrl",
+      "field": "bluesky_link_url"
+    },
+    "bluesky_langs": {
+      "option": "bluesky_langs",
+      "field": "bluesky_langs"
+    },
+    "bluesky_labels": {
+      "option": "bluesky_labels",
+      "field": "bluesky_labels"
+    },
+    "bluesky_threadgate": {
+      "option": "bluesky_threadgate",
+      "field": "bluesky_threadgate"
+    },
+    "bluesky_postgate": {
+      "option": "bluesky_postgate",
+      "field": "bluesky_postgate"
+    },
+    "bluesky_quote_uri": {
+      "option": "bluesky_quote_uri",
+      "field": "bluesky_quote_uri"
+    },
+    "gbp_location_id": {
+      "option": "gbpLocationId",
+      "field": "gbp_location_id"
+    },
+    "gbp_topic_type": {
+      "option": "gbpTopicType",
+      "field": "gbp_topic_type"
+    },
+    "gbp_cta_type": {
+      "option": "gbpCtaType",
+      "field": "gbp_cta_type"
+    },
+    "gbp_cta_url": {
+      "option": "gbpCtaUrl",
+      "field": "gbp_cta_url"
+    },
+    "gbp_post_type": {
+      "option": "gbpPostType",
+      "field": "gbp_post_type"
+    },
+    "gbp_media_category": {
+      "option": "gbpMediaCategory",
+      "field": "gbp_media_category"
+    },
+    "gbp_event_title": {
+      "option": "gbpEventTitle",
+      "field": "gbp_event_title"
+    },
+    "gbp_event_start_date": {
+      "option": "gbpEventStartDate",
+      "field": "gbp_event_start_date"
+    },
+    "gbp_event_start_time": {
+      "option": "gbpEventStartTime",
+      "field": "gbp_event_start_time"
+    },
+    "gbp_event_end_date": {
+      "option": "gbpEventEndDate",
+      "field": "gbp_event_end_date"
+    },
+    "gbp_event_end_time": {
+      "option": "gbpEventEndTime",
+      "field": "gbp_event_end_time"
+    },
+    "gbp_coupon_code": {
+      "option": "gbp_coupon_code",
+      "field": "gbp_coupon_code"
+    },
+    "gbp_redeem_url": {
+      "option": "gbp_redeem_url",
+      "field": "gbp_redeem_url"
+    },
+    "gbp_terms": {
+      "option": "gbp_terms",
+      "field": "gbp_terms"
+    },
+    "gbp_language_code": {
+      "option": "gbp_language_code",
+      "field": "gbp_language_code"
+    }
+  },
+  "document": {
+    "description": {
+      "option": "description",
+      "field": "description"
+    },
+    "visibility": {
+      "option": "linkedinVisibility",
+      "field": "visibility"
+    },
+    "target_linkedin_page_id": {
+      "option": "targetLinkedinPageId",
+      "field": "target_linkedin_page_id"
+    }
+  }
+}

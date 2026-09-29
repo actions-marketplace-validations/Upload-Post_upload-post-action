@@ -1,0 +1,1468 @@
+{
+  "_generated_from": "upload-post-docs/docs/api (scripts/extract-params.mjs)",
+  "video": {
+    "params": {
+      "description": {
+        "file": false,
+        "list": false
+      },
+      "external_id": {
+        "file": false,
+        "list": false
+      },
+      "request_id": {
+        "file": false,
+        "list": false
+      },
+      "max_posts_per_slot": {
+        "file": false,
+        "list": false
+      },
+      "instagram_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "facebook_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "x_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "threads_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "youtube_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "instagram_title": {
+        "file": false,
+        "list": false
+      },
+      "facebook_title": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_title": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_title": {
+        "file": false,
+        "list": false
+      },
+      "x_title": {
+        "file": false,
+        "list": false
+      },
+      "youtube_title": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_title": {
+        "file": false,
+        "list": false
+      },
+      "privacy_level": {
+        "file": false,
+        "list": false
+      },
+      "disable_duet": {
+        "file": false,
+        "list": false
+      },
+      "disable_comment": {
+        "file": false,
+        "list": false
+      },
+      "disable_stitch": {
+        "file": false,
+        "list": false
+      },
+      "post_mode": {
+        "file": false,
+        "list": false
+      },
+      "disable_inbox_fallback": {
+        "file": false,
+        "list": false
+      },
+      "cover_timestamp": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_cover_image_url": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_cover_image": {
+        "file": true,
+        "list": false
+      },
+      "tiktok_music_id": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_music_volume": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_music_start": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_music_end": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_original_sound_volume": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_location_id": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_location_name": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_upload_to_draft": {
+        "file": false,
+        "list": false
+      },
+      "brand_content_toggle": {
+        "file": false,
+        "list": false
+      },
+      "brand_organic_toggle": {
+        "file": false,
+        "list": false
+      },
+      "is_aigc": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_is_ai_generated": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_is_ads_only": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_tto_invite_link": {
+        "file": false,
+        "list": false
+      },
+      "media_type": {
+        "file": false,
+        "list": false
+      },
+      "share_mode": {
+        "file": false,
+        "list": false
+      },
+      "share_to_feed": {
+        "file": false,
+        "list": false
+      },
+      "collaborators": {
+        "file": false,
+        "list": false
+      },
+      "cover_url": {
+        "file": false,
+        "list": false
+      },
+      "cover_image": {
+        "file": true,
+        "list": false
+      },
+      "audio_name": {
+        "file": false,
+        "list": false
+      },
+      "user_tags": {
+        "file": false,
+        "list": false
+      },
+      "location_id": {
+        "file": false,
+        "list": false
+      },
+      "thumb_offset": {
+        "file": false,
+        "list": false
+      },
+      "is_ai_generated": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_description": {
+        "file": false,
+        "list": false
+      },
+      "visibility": {
+        "file": false,
+        "list": false
+      },
+      "target_linkedin_page_id": {
+        "file": false,
+        "list": false
+      },
+      "thumbnail": {
+        "file": true,
+        "list": false
+      },
+      "thumbnail_url": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_disable_reshare": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_subtitles": {
+        "file": true,
+        "list": false
+      },
+      "youtube_description": {
+        "file": false,
+        "list": false
+      },
+      "tags": {
+        "file": false,
+        "list": true
+      },
+      "categoryId": {
+        "file": false,
+        "list": false
+      },
+      "privacyStatus": {
+        "file": false,
+        "list": false
+      },
+      "embeddable": {
+        "file": false,
+        "list": false
+      },
+      "license": {
+        "file": false,
+        "list": false
+      },
+      "publicStatsViewable": {
+        "file": false,
+        "list": false
+      },
+      "selfDeclaredMadeForKids": {
+        "file": false,
+        "list": false
+      },
+      "containsSyntheticMedia": {
+        "file": false,
+        "list": false
+      },
+      "defaultLanguage": {
+        "file": false,
+        "list": false
+      },
+      "defaultAudioLanguage": {
+        "file": false,
+        "list": false
+      },
+      "allowedCountries": {
+        "file": false,
+        "list": false
+      },
+      "blockedCountries": {
+        "file": false,
+        "list": false
+      },
+      "hasPaidProductPlacement": {
+        "file": false,
+        "list": false
+      },
+      "recordingDate": {
+        "file": false,
+        "list": false
+      },
+      "youtube_playlist_id": {
+        "file": false,
+        "list": false
+      },
+      "youtube_subtitle_file": {
+        "file": true,
+        "list": false
+      },
+      "youtube_subtitle_language": {
+        "file": false,
+        "list": false
+      },
+      "youtube_subtitle_name": {
+        "file": false,
+        "list": false
+      },
+      "youtube_notify_subscribers": {
+        "file": false,
+        "list": false
+      },
+      "youtube_publish_at": {
+        "file": false,
+        "list": false
+      },
+      "facebook_description": {
+        "file": false,
+        "list": false
+      },
+      "facebook_page_id": {
+        "file": false,
+        "list": false
+      },
+      "facebook_media_type": {
+        "file": false,
+        "list": false
+      },
+      "video_state": {
+        "file": false,
+        "list": false
+      },
+      "facebook_is_ai_generated": {
+        "file": false,
+        "list": false
+      },
+      "facebook_unpublished_content_type": {
+        "file": false,
+        "list": false
+      },
+      "facebook_no_story": {
+        "file": false,
+        "list": false
+      },
+      "facebook_secret": {
+        "file": false,
+        "list": false
+      },
+      "facebook_collaborators": {
+        "file": false,
+        "list": false
+      },
+      "threads_title": {
+        "file": false,
+        "list": false
+      },
+      "threads_topic_tag": {
+        "file": false,
+        "list": false
+      },
+      "threads_alt_text": {
+        "file": false,
+        "list": false
+      },
+      "threads_reply_control": {
+        "file": false,
+        "list": false
+      },
+      "threads_reply_to_id": {
+        "file": false,
+        "list": false
+      },
+      "threads_quote_post_id": {
+        "file": false,
+        "list": false
+      },
+      "x_long_text_as_post": {
+        "file": false,
+        "list": false
+      },
+      "reply_settings": {
+        "file": false,
+        "list": false
+      },
+      "geo_place_id": {
+        "file": false,
+        "list": false
+      },
+      "nullcast": {
+        "file": false,
+        "list": false
+      },
+      "made_with_ai": {
+        "file": false,
+        "list": false
+      },
+      "for_super_followers_only": {
+        "file": false,
+        "list": false
+      },
+      "community_id": {
+        "file": false,
+        "list": false
+      },
+      "share_with_followers": {
+        "file": false,
+        "list": false
+      },
+      "direct_message_deep_link": {
+        "file": false,
+        "list": false
+      },
+      "tagged_user_ids": {
+        "file": false,
+        "list": true
+      },
+      "reply_to_id": {
+        "file": false,
+        "list": false
+      },
+      "exclude_reply_user_ids": {
+        "file": false,
+        "list": true
+      },
+      "x_alt_text": {
+        "file": false,
+        "list": false
+      },
+      "x_subtitles_url": {
+        "file": false,
+        "list": false
+      },
+      "x_subtitles_language": {
+        "file": false,
+        "list": false
+      },
+      "x_subtitles_name": {
+        "file": false,
+        "list": false
+      },
+      "x_paid_partnership": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_description": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_board_id": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_alt_text": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_link": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_cover_image_url": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_cover_image_content_type": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_cover_image_data": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_cover_image_key_frame_time": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_board_section_id": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_ai_disclosures": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_title": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_alt_text": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_langs": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_labels": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_threadgate": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_postgate": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_quote_uri": {
+        "file": false,
+        "list": false
+      },
+      "discord_title": {
+        "file": false,
+        "list": false
+      },
+      "discord_alt_text": {
+        "file": false,
+        "list": false
+      },
+      "discord_thread_id": {
+        "file": false,
+        "list": false
+      },
+      "discord_max_file_mb": {
+        "file": false,
+        "list": false
+      },
+      "telegram_title": {
+        "file": false,
+        "list": false
+      },
+      "telegram_parse_mode": {
+        "file": false,
+        "list": false
+      },
+      "telegram_has_spoiler": {
+        "file": false,
+        "list": false
+      },
+      "telegram_as_document": {
+        "file": false,
+        "list": false
+      },
+      "gbp_location_id": {
+        "file": false,
+        "list": false
+      },
+      "gbp_topic_type": {
+        "file": false,
+        "list": false
+      },
+      "gbp_cta_type": {
+        "file": false,
+        "list": false
+      },
+      "gbp_cta_url": {
+        "file": false,
+        "list": false
+      },
+      "gbp_post_type": {
+        "file": false,
+        "list": false
+      },
+      "gbp_upload_to_gallery": {
+        "file": false,
+        "list": false
+      },
+      "gbp_media_category": {
+        "file": false,
+        "list": false
+      },
+      "gbp_event_title": {
+        "file": false,
+        "list": false
+      },
+      "gbp_event_start_date": {
+        "file": false,
+        "list": false
+      },
+      "gbp_event_start_time": {
+        "file": false,
+        "list": false
+      },
+      "gbp_event_end_date": {
+        "file": false,
+        "list": false
+      },
+      "gbp_event_end_time": {
+        "file": false,
+        "list": false
+      },
+      "gbp_coupon_code": {
+        "file": false,
+        "list": false
+      },
+      "gbp_redeem_url": {
+        "file": false,
+        "list": false
+      },
+      "gbp_terms": {
+        "file": false,
+        "list": false
+      },
+      "gbp_language_code": {
+        "file": false,
+        "list": false
+      }
+    },
+    "patterns": {
+      "^youtube_subtitle_file_\\d+$": {
+        "file": true,
+        "list": false
+      },
+      "^youtube_subtitle_language_\\d+$": {
+        "file": false,
+        "list": false
+      },
+      "^youtube_subtitle_name_\\d+$": {
+        "file": false,
+        "list": false
+      }
+    }
+  },
+  "photos": {
+    "params": {
+      "description": {
+        "file": false,
+        "list": false
+      },
+      "request_id": {
+        "file": false,
+        "list": false
+      },
+      "external_id": {
+        "file": false,
+        "list": false
+      },
+      "max_posts_per_slot": {
+        "file": false,
+        "list": false
+      },
+      "instagram_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "facebook_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "x_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "threads_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "instagram_title": {
+        "file": false,
+        "list": false
+      },
+      "facebook_title": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_title": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_title": {
+        "file": false,
+        "list": false
+      },
+      "x_title": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_description": {
+        "file": false,
+        "list": false
+      },
+      "visibility": {
+        "file": false,
+        "list": false
+      },
+      "target_linkedin_page_id": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_alt_text": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_disable_reshare": {
+        "file": false,
+        "list": false
+      },
+      "facebook_page_id": {
+        "file": false,
+        "list": false
+      },
+      "facebook_media_type": {
+        "file": false,
+        "list": false
+      },
+      "facebook_alt_text": {
+        "file": false,
+        "list": false
+      },
+      "facebook_place_id": {
+        "file": false,
+        "list": false
+      },
+      "facebook_targeting": {
+        "file": false,
+        "list": false
+      },
+      "facebook_feed_targeting": {
+        "file": false,
+        "list": false
+      },
+      "facebook_no_story": {
+        "file": false,
+        "list": false
+      },
+      "facebook_secret": {
+        "file": false,
+        "list": false
+      },
+      "x_long_text_as_post": {
+        "file": false,
+        "list": false
+      },
+      "x_thread_image_layout": {
+        "file": false,
+        "list": false
+      },
+      "reply_settings": {
+        "file": false,
+        "list": false
+      },
+      "geo_place_id": {
+        "file": false,
+        "list": false
+      },
+      "nullcast": {
+        "file": false,
+        "list": false
+      },
+      "made_with_ai": {
+        "file": false,
+        "list": false
+      },
+      "for_super_followers_only": {
+        "file": false,
+        "list": false
+      },
+      "community_id": {
+        "file": false,
+        "list": false
+      },
+      "share_with_followers": {
+        "file": false,
+        "list": false
+      },
+      "direct_message_deep_link": {
+        "file": false,
+        "list": false
+      },
+      "tagged_user_ids": {
+        "file": false,
+        "list": true
+      },
+      "reply_to_id": {
+        "file": false,
+        "list": false
+      },
+      "exclude_reply_user_ids": {
+        "file": false,
+        "list": true
+      },
+      "x_alt_text": {
+        "file": false,
+        "list": false
+      },
+      "x_paid_partnership": {
+        "file": false,
+        "list": false
+      },
+      "post_mode": {
+        "file": false,
+        "list": false
+      },
+      "disable_inbox_fallback": {
+        "file": false,
+        "list": false
+      },
+      "privacy_level": {
+        "file": false,
+        "list": false
+      },
+      "auto_add_music": {
+        "file": false,
+        "list": false
+      },
+      "disable_comment": {
+        "file": false,
+        "list": false
+      },
+      "brand_content_toggle": {
+        "file": false,
+        "list": false
+      },
+      "brand_organic_toggle": {
+        "file": false,
+        "list": false
+      },
+      "photo_cover_index": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_music_id": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_location_id": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_location_name": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_is_ai_generated": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_upload_to_draft": {
+        "file": false,
+        "list": false
+      },
+      "tiktok_description": {
+        "file": false,
+        "list": false
+      },
+      "media_type": {
+        "file": false,
+        "list": false
+      },
+      "collaborators": {
+        "file": false,
+        "list": false
+      },
+      "user_tags": {
+        "file": false,
+        "list": false
+      },
+      "location_id": {
+        "file": false,
+        "list": false
+      },
+      "is_ai_generated": {
+        "file": false,
+        "list": false
+      },
+      "instagram_alt_text": {
+        "file": false,
+        "list": false
+      },
+      "threads_title": {
+        "file": false,
+        "list": false
+      },
+      "threads_thread_media_layout": {
+        "file": false,
+        "list": false
+      },
+      "threads_topic_tag": {
+        "file": false,
+        "list": false
+      },
+      "threads_alt_text": {
+        "file": false,
+        "list": false
+      },
+      "threads_reply_control": {
+        "file": false,
+        "list": false
+      },
+      "threads_reply_to_id": {
+        "file": false,
+        "list": false
+      },
+      "threads_quote_post_id": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_title": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_description": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_board_id": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_alt_text": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_link": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_board_section_id": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_ai_disclosures": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_carousel_titles[]": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_carousel_descriptions[]": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_carousel_links[]": {
+        "file": false,
+        "list": false
+      },
+      "pinterest_carousel_index": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_title": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_alt_text": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_langs": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_labels": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_gallery": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_threadgate": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_postgate": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_quote_uri": {
+        "file": false,
+        "list": false
+      },
+      "discord_title": {
+        "file": false,
+        "list": false
+      },
+      "discord_alt_text": {
+        "file": false,
+        "list": false
+      },
+      "discord_thread_id": {
+        "file": false,
+        "list": false
+      },
+      "discord_thread_name": {
+        "file": false,
+        "list": false
+      },
+      "discord_flags": {
+        "file": false,
+        "list": false
+      },
+      "telegram_title": {
+        "file": false,
+        "list": false
+      },
+      "telegram_parse_mode": {
+        "file": false,
+        "list": false
+      },
+      "telegram_has_spoiler": {
+        "file": false,
+        "list": false
+      },
+      "telegram_disable_notification": {
+        "file": false,
+        "list": false
+      },
+      "telegram_protect_content": {
+        "file": false,
+        "list": false
+      },
+      "gbp_location_id": {
+        "file": false,
+        "list": false
+      },
+      "gbp_topic_type": {
+        "file": false,
+        "list": false
+      },
+      "gbp_cta_type": {
+        "file": false,
+        "list": false
+      },
+      "gbp_cta_url": {
+        "file": false,
+        "list": false
+      },
+      "gbp_post_type": {
+        "file": false,
+        "list": false
+      },
+      "gbp_upload_to_gallery": {
+        "file": false,
+        "list": false
+      },
+      "gbp_media_category": {
+        "file": false,
+        "list": false
+      },
+      "gbp_event_title": {
+        "file": false,
+        "list": false
+      },
+      "gbp_event_start_date": {
+        "file": false,
+        "list": false
+      },
+      "gbp_event_start_time": {
+        "file": false,
+        "list": false
+      },
+      "gbp_event_end_date": {
+        "file": false,
+        "list": false
+      },
+      "gbp_event_end_time": {
+        "file": false,
+        "list": false
+      },
+      "gbp_coupon_code": {
+        "file": false,
+        "list": false
+      },
+      "gbp_redeem_url": {
+        "file": false,
+        "list": false
+      },
+      "gbp_terms": {
+        "file": false,
+        "list": false
+      },
+      "gbp_language_code": {
+        "file": false,
+        "list": false
+      }
+    },
+    "patterns": {}
+  },
+  "text": {
+    "params": {
+      "description": {
+        "file": false,
+        "list": false
+      },
+      "request_id": {
+        "file": false,
+        "list": false
+      },
+      "external_id": {
+        "file": false,
+        "list": false
+      },
+      "max_posts_per_slot": {
+        "file": false,
+        "list": false
+      },
+      "link_url": {
+        "file": false,
+        "list": false
+      },
+      "facebook_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "x_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "threads_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_first_comment": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_title": {
+        "file": false,
+        "list": false
+      },
+      "x_title": {
+        "file": false,
+        "list": false
+      },
+      "facebook_title": {
+        "file": false,
+        "list": false
+      },
+      "threads_title": {
+        "file": false,
+        "list": false
+      },
+      "target_linkedin_page_id": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_link_url": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_visibility": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_disable_reshare": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_link_title": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_link_description": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_thumbnail_alt_text": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_poll_question": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_poll_options[]": {
+        "file": false,
+        "list": true
+      },
+      "linkedin_poll_duration": {
+        "file": false,
+        "list": false
+      },
+      "x_long_text_as_post": {
+        "file": false,
+        "list": false
+      },
+      "reply_settings": {
+        "file": false,
+        "list": false
+      },
+      "quote_tweet_id": {
+        "file": false,
+        "list": false
+      },
+      "geo_place_id": {
+        "file": false,
+        "list": false
+      },
+      "nullcast": {
+        "file": false,
+        "list": false
+      },
+      "for_super_followers_only": {
+        "file": false,
+        "list": false
+      },
+      "community_id": {
+        "file": false,
+        "list": false
+      },
+      "share_with_followers": {
+        "file": false,
+        "list": false
+      },
+      "direct_message_deep_link": {
+        "file": false,
+        "list": false
+      },
+      "card_uri": {
+        "file": false,
+        "list": false
+      },
+      "poll_options": {
+        "file": false,
+        "list": true
+      },
+      "poll_duration": {
+        "file": false,
+        "list": false
+      },
+      "poll_reply_settings": {
+        "file": false,
+        "list": false
+      },
+      "reply_to_id": {
+        "file": false,
+        "list": false
+      },
+      "exclude_reply_user_ids": {
+        "file": false,
+        "list": true
+      },
+      "x_paid_partnership": {
+        "file": false,
+        "list": false
+      },
+      "x_article_title": {
+        "file": false,
+        "list": false
+      },
+      "x_article_body": {
+        "file": false,
+        "list": false
+      },
+      "x_article_content_state": {
+        "file": false,
+        "list": false
+      },
+      "x_article_draft": {
+        "file": false,
+        "list": false
+      },
+      "x_article_cover_media": {
+        "file": true,
+        "list": false
+      },
+      "facebook_page_id": {
+        "file": false,
+        "list": false
+      },
+      "facebook_link_url": {
+        "file": false,
+        "list": false
+      },
+      "facebook_call_to_action": {
+        "file": false,
+        "list": false
+      },
+      "facebook_child_attachments": {
+        "file": false,
+        "list": false
+      },
+      "facebook_multi_share_end_card": {
+        "file": false,
+        "list": false
+      },
+      "facebook_place_id": {
+        "file": false,
+        "list": false
+      },
+      "threads_long_text_as_post": {
+        "file": false,
+        "list": false
+      },
+      "threads_topic_tag": {
+        "file": false,
+        "list": false
+      },
+      "threads_reply_control": {
+        "file": false,
+        "list": false
+      },
+      "threads_reply_to_id": {
+        "file": false,
+        "list": false
+      },
+      "threads_quote_post_id": {
+        "file": false,
+        "list": false
+      },
+      "threads_link_attachment": {
+        "file": false,
+        "list": false
+      },
+      "threads_poll_options": {
+        "file": false,
+        "list": false
+      },
+      "threads_auto_publish_text": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_title": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_link_url": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_langs": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_labels": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_threadgate": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_postgate": {
+        "file": false,
+        "list": false
+      },
+      "bluesky_quote_uri": {
+        "file": false,
+        "list": false
+      },
+      "discord_title": {
+        "file": false,
+        "list": false
+      },
+      "telegram_title": {
+        "file": false,
+        "list": false
+      },
+      "gbp_location_id": {
+        "file": false,
+        "list": false
+      },
+      "gbp_topic_type": {
+        "file": false,
+        "list": false
+      },
+      "gbp_cta_type": {
+        "file": false,
+        "list": false
+      },
+      "gbp_cta_url": {
+        "file": false,
+        "list": false
+      },
+      "gbp_post_type": {
+        "file": false,
+        "list": false
+      },
+      "gbp_upload_to_gallery": {
+        "file": false,
+        "list": false
+      },
+      "gbp_media_category": {
+        "file": false,
+        "list": false
+      },
+      "gbp_event_title": {
+        "file": false,
+        "list": false
+      },
+      "gbp_event_start_date": {
+        "file": false,
+        "list": false
+      },
+      "gbp_event_start_time": {
+        "file": false,
+        "list": false
+      },
+      "gbp_event_end_date": {
+        "file": false,
+        "list": false
+      },
+      "gbp_event_end_time": {
+        "file": false,
+        "list": false
+      },
+      "gbp_coupon_code": {
+        "file": false,
+        "list": false
+      },
+      "gbp_redeem_url": {
+        "file": false,
+        "list": false
+      },
+      "gbp_terms": {
+        "file": false,
+        "list": false
+      },
+      "gbp_language_code": {
+        "file": false,
+        "list": false
+      }
+    },
+    "patterns": {}
+  },
+  "document": {
+    "params": {
+      "description": {
+        "file": false,
+        "list": false
+      },
+      "visibility": {
+        "file": false,
+        "list": false
+      },
+      "target_linkedin_page_id": {
+        "file": false,
+        "list": false
+      },
+      "linkedin_first_comment": {
+        "file": false,
+        "list": false
+      }
+    },
+    "patterns": {}
+  }
+}

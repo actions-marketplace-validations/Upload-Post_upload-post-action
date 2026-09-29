@@ -1,0 +1,42 @@
+{
+  "name": "upload-post-action",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "ncc build src/index.js -o dist --license licenses.txt",
+    "test": "vitest run",
+    "extract-params": "node scripts/extract-params.mjs",
+    "probe-sdk": "node scripts/probe-sdk.mjs",
+    "check-sdk-map": "node scripts/probe-sdk.mjs --check",
+    "all": "npm test && npm run build"
+  },
+  "keywords": [
+    "github-action",
+    "social-media",
+    "upload-post",
+    "tiktok",
+    "instagram",
+    "youtube",
+    "linkedin",
+    "x",
+    "twitter",
+    "scheduler"
+  ],
+  "author": "Upload-Post",
+  "license": "MIT",
+  "description": "Publish or schedule social media posts (TikTok, Instagram, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky, Discord, Telegram, Google Business) from GitHub Actions with Upload-Post.",
+  "dependencies": {
+    "@actions/core": "^3.0.1",
+    "upload-post": "2.14.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@vercel/ncc": "^0.45.0",
+    "vitest": "^5.0.2"
+  },
+  "private": true,
+  "homepage": "https://www.upload-post.com",
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,83 @@
+name: Upload-Post Social Publisher
+description: Publish or schedule social media posts on TikTok, Instagram, YouTube, LinkedIn, X and more with Upload-Post.
+author: Upload-Post
+
+branding:
+  icon: send
+  color: blue
+
+inputs:
+  api-key:
+    description: Upload-Post API key. Store it as a repository secret (for example UPLOAD_POST_API_KEY) and pass it from secrets.
+    required: true
+  profile:
+    description: Upload-Post profile (username) whose connected accounts publish the post.
+    required: true
+  platforms:
+    description: >-
+      Comma-separated platforms: tiktok, instagram, youtube, linkedin, facebook, x, threads,
+      pinterest, bluesky, discord, telegram, google_business. Defaults to linkedin for type document.
+    required: false
+    default: ''
+  type:
+    description: Post type, one of text, video, photos or document.
+    required: false
+    default: text
+  text:
+    description: The post text / caption (sent as the API `title`). Required for text and document posts.
+    required: false
+    default: ''
+  title:
+    description: Alias of `text`. Set one of the two.
+    required: false
+    default: ''
+  media:
+    description: >-
+      Media for video, photos and document posts: public URLs or paths relative to the repository root
+      (local files are uploaded). Separate items with commas or new lines; one item for video and document.
+    required: false
+    default: ''
+  scheduled-date:
+    description: ISO-8601 date/time to publish at, for example 2026-12-31T18:00:00. Omit to publish now.
+    required: false
+    default: ''
+  timezone:
+    description: IANA timezone for `scheduled-date`, for example Europe/Madrid. Defaults to UTC.
+    required: false
+    default: ''
+  add-to-queue:
+    description: Put the post in the next free slot of the profile's queue instead of publishing now.
+    required: false
+    default: 'false'
+  first-comment:
+    description: First comment posted right after publishing (Instagram, Facebook, Threads, Bluesky, X, YouTube, LinkedIn, TikTok).
+    required: false
+    default: ''
+  wait:
+    description: Wait until every platform has finished and output the post URLs. Ignored for scheduled and queued posts.
+    required: false
+    default: 'false'
+  wait-timeout:
+    description: Maximum seconds to wait when `wait` is true.
+    required: false
+    default: '900'
+  extra:
+    description: >-
+      JSON object with extra documented API parameters for the chosen type, for example
+      {"privacyStatus": "unlisted", "facebook_page_id": "123"}. Keys use the API names from docs.upload-post.com.
+    required: false
+    default: ''
+
+outputs:
+  request-id:
+    description: request_id of an immediate post (use it with the Upload Status endpoint).
+  job-id:
+    description: job_id of a scheduled or queued post.
+  status:
+    description: pending (accepted, not waited for), scheduled, completed, failed, or the last status seen when `wait` timed out.
+  post-urls:
+    description: 'JSON object of published post URLs by platform, for example {"x": "https://x.com/..."}. Filled when the result is known (`wait: true`).'
+
+runs:
+  using: node24
+  main: dist/index.js
